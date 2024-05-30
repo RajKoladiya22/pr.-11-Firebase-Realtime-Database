@@ -1,0 +1,9 @@
+body{
+  background-color: #210120 !important;
+  color: #ffffff !important;
+}
+
+.box{
+  height: 552px;
+  overflow-x: scroll;
+}
